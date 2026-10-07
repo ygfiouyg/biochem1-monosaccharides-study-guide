@@ -1164,93 +1164,87 @@
  ],
  "high_risk": [
   {
-   "t": "Molisch's test (General test for carbohydrates)",
-   "idea": "All carbohydrates give a violet ring at the junction of the two layers due to dehydration of sugar to furfural or hydroxymethyl furfural, then condensation with α-naphthol.",
-   "why": "Classic first general identification test for carbohydrates; professors often ask procedure, observation, and chemical basis.",
-   "page": "9-10",
-   "alt": "اذكر اختبار Molisch العام للكربوهيدرات؟ / ما أساس تفاعل Molisch؟ / لماذا تظهر حلقة بنفسجية؟ / ما دور α-naphthol وحمض الكبريتيك؟"
+   "t": "تعريف Carbohydrates",
+   "idea": "Carbohydrates هي مواد عضوية تحتوي على C, H, O، وهي polyhydroxyaldehyde أو polyhydroxyketones، أو أي مركب يعطي هذه المواد عند hydrolysis.",
+   "why": "تعريف أساسي ومباشر من أول صفحة، سؤال تعريف/اختيار متوقع.",
+   "page": "3",
+   "alt": "عرف الكربوهيدرات؟ / ما الشروط الكيميائية لاعتبار المركب carbohydrate؟"
   },
   {
-   "t": "Fehling’s test for reducing sugars",
-   "idea": "Reducing sugars reduce copper sulfate in alkaline medium to red cuprous oxide (Cu2O). Fehling A = copper sulfate; Fehling B = sodium hydroxide + Rochelle salt (sodium potassium tartrate).",
-   "why": "Very common practical exam question: composition of Fehling A and B, role of Rochelle salt, procedure, and red precipitate.",
+   "t": "Classification حسب نواتج hydrolysis",
+   "idea": "Monosaccharides وحدة سكر واحدة، Disaccharides وحدتان، Oligosaccharides من 3-10 وحدات، Polysaccharides أكثر من 10 وحدات.",
+   "why": "تصنيف عددي سهل التحويل لسؤال MCQ أو أكمل.",
+   "page": "4",
+   "alt": "صنف الكربوهيدرات حسب نواتج التحلل المائي مع ذكر عدد وحدات السكر."
+  },
+  {
+   "t": "Classification حسب most oxidized functional group",
+   "idea": "Aldoses تحتوي aldehyde كأكثر مجموعة مؤكسدة، Ketoses تحتوي ketone كأكثر مجموعة مؤكسدة.",
+   "why": "تمييز أساسي بين aldoses و ketoses، وكثيرا ما يطلب مع أمثلة.",
+   "page": "4",
+   "alt": "ما الفرق بين aldoses و ketoses؟ / صنف حسب المجموعة الوظيفية الأكثر تأكسدا."
+  },
+  {
+   "t": "Molisch's reaction",
+   "idea": "تفاعل عام لكل Carbohydrates: إضافة alcoholic α-naphthol ثم conc. sulfuric acid على جدار الأنبوب دون رج؛ يتكون violet ring عند junction. التعليل: dehydration إلى furfural في fructose أو hydroxymethyl furfural (HMF) في glucose، ثم condensation مع 2 molecules alpha naphthol.",
+   "why": "تفاعل عام مميز لكل الكربوهيدرات، والخطوات والتعليل مرشحون بقوة.",
+   "page": "9",
+   "alt": "اكتب procedure وobservation وcomment لتفاعل Molisch."
+  },
+  {
+   "t": "Fehling’s test",
+   "idea": "اختبار reducing sugars: خلط Fehling A + Fehling B ثم إضافة sugar solution والغليان؛ observation: red precipitate of cuprous oxide Cu2O. Fehling A = copper sulfate، Fehling B = sodium hydroxide + Rochelle salt. Rochelle salt يبقي Cu+2 في solution ويمنع تكوين cupric hydroxide و black cupric oxide CuO. Fehling A و B يحفظان منفصلين لمنع auto-reduction. التعليل: reduction of Cu2+ to Cu2O بسبب free carbonyl group.",
+   "why": "تفاصيل procedure وobservation وrole of Rochelle salt وتعليل الاختزال كلها نقاط امتحانية عالية التكرار.",
    "page": "12",
-   "alt": "ما هو اختبار Fehling؟ / لماذا يعطي الجلوكوز راسب أحمر؟ / ما مكونات محلول Fehling A و B؟ / ما وظيفة Rochelle salt؟"
-  },
-  {
-   "t": "Benedict’s test for reducing sugars",
-   "idea": "Reducing sugars give a brick-red precipitate of Cu2O with Benedict’s reagent, which contains alkaline copper citrate/carbonate. It is more sensitive than Fehling and suitable for quantitative estimation.",
-   "why": "Mentioned in the reducing sugar test list; Egyptian exams usually ask comparison between Fehling and Benedict.",
-   "page": "11",
-   "alt": "اذكر اختبار Benedict للكربوهيدرات المختزلة؟ / قارن بين Fehling و Benedict؟ / ما لون الراسب؟ / لماذا يستخدم Benedict في البول؟"
-  },
-  {
-   "t": "Barfoed’s test",
-   "idea": "Differentiates monosaccharides from disaccharides. Monosaccharides reduce copper acetate in acidic medium giving red Cu2O within minutes; disaccharides react slowly or after prolonged boiling.",
-   "why": "Listed among reducing sugar tests and commonly used in practical differentiation.",
-   "page": "11",
-   "alt": "ما اختبار Barfoed؟ / كيف تفرق بين الجلوكوز والمالتوز؟ / لماذا الوسط حمضي؟ / متى يظهر الراسب الأحمر؟"
+   "alt": "اشرح Fehling’s test مع التعليل ودور Rochelle salt."
   },
   {
    "t": "Osazone test (Phenylhydrazine test)",
-   "idea": "Reducing sugars react with phenylhydrazine hydrochloride and sodium acetate to form osazone crystals. Crystal shape and time of formation help identify sugars (e.g., glucose/fructose broom-shaped, maltose sunburst, lactose rosette).",
-   "why": "High-yield practical test: procedure, reagent, boiling water-bath, microscopic crystal shape, and differentiation between sugars.",
-   "page": "16-17",
-   "alt": "اذكر اختبار Osazone؟ / كيف تحضر بلورات الأوزازون؟ / ما شكل بلورات الجلوكوز واللاكتوز؟ / لماذا نستخدم phenylhydrazine؟"
+   "idea": "اختبار reducing sugars: إضافة acetic acid ثم freshly-prepared mixture of phenylhydrazine hydrochloride و sodium acetate، تسخين في boiling water-bath 5-10 min، ثم فحص crystals تحت microscope. Observation: yellow crystals brush-shaped (Raphides) of Glucosazone & Fructosazone. التعليل: تفاعل free aldehydic or ketone group مع 3 molecules phenyl hydrazine HCl في ثلاث خطوات: condensation, oxidation, ثم condensation.",
+   "why": "اسم التفاعل، الشكل المجهري، والخطوات الثلاث مرشحون لسؤال مقالي أو MCQ.",
+   "page": "16",
+   "alt": "اكتب procedure وobservation وcomment لـ Osazone test."
   },
   {
-   "t": "Ketose test: differentiation between glucose and fructose",
-   "idea": "Boiling with conc. HCl: fructose dehydrates to furfural (reddish brown), while glucose dehydrates to hydroxymethyl furfural (colorless in acidic medium).",
-   "why": "Direct differentiation question; professors ask observation, comment, and chemical basis.",
-   "page": "18-19",
-   "alt": "كيف تفرق بين الجلوكوز والفركتوز؟ / ما نتيجة اختبار Ketose؟ / لماذا يعطي الفركتوز لون بني محمر؟ / ما الفرق بين furfural و HMF؟"
+   "t": "Ketose test للتمييز بين glucose و fructose",
+   "idea": "إضافة 2 ml sugar solution إلى 1 ml conc HCl والغليان 2 min. Observation: Glucose colorless، Fructose reddish brown. التعليل: fructose يتdehydrate إلى furfural وهو reddish brown في acidic medium؛ glucose يتdehydrate إلى HMF وهو colorless في acidic medium.",
+   "why": "سؤال تمييز مباشر بين سكرين، مع لون واضح وتعليل كيميائي.",
+   "page": "19",
+   "alt": "كيف تفرق بين glucose و fructose باستخدام Ketose test؟ مع التعليل."
   },
   {
-   "t": "Classification of carbohydrates",
-   "idea": "By hydrolysis products: monosaccharides (1 unit), disaccharides (2 units), oligosaccharides (3–10 units), polysaccharides (>10 units). By most oxidized group: aldoses (aldehyde) and ketoses (ketone).",
-   "why": "Basic definition/classification question always expected in written exams.",
-   "page": "4",
-   "alt": "صنف الكربوهيدرات حسب التحلل المائي؟ / ما الفرق بين Aldoses و Ketoses؟ / عرف Oligosaccharides؟ / أعط أمثلة."
-  },
-  {
-   "t": "Definition and functions of carbohydrates",
-   "idea": "Carbohydrates are organic substances containing C, H, O; polyhydroxyaldehydes or polyhydroxyketones, or compounds giving these on hydrolysis. Functions: energy source, energy storage, cell membrane components, intercellular communication.",
-   "why": "Foundation question; easy marks and commonly asked in short notes.",
+   "t": "Functions of Carbohydrates",
+   "idea": "A. Provide energy in diet. B. Storage form of energy in body. C. Cell membrane components mediating intercellular communication. D. Structural component في cell walls of bacteria، exoskeleton of insects، fibrous cellulose of plants.",
+   "why": "قائمة وظائف متعددة، سهلة التحويل إلى سؤال اختيار من متعدد أو أكمل.",
    "page": "3",
-   "alt": "عرف الكربوهيدرات؟ / اذكر وظائف الكربوهيدرات؟ / ما المقصود بـ polyhydroxyaldehyde؟ / لماذا تعتبر مصدر طاقة؟"
+   "alt": "اذكر وظائف الكربوهيدرات في الكائنات الحية."
   },
   {
-   "t": "Reducing sugars: list and general principle",
-   "idea": "Reducing sugars include glucose, fructose, maltose, lactose; they reduce copper ions in alkaline medium. Tests: Fehling, Benedict, Barfoed, Moore (alkali), Osazone. Sucrose is non-reducing.",
-   "why": "Common theoretical link between practical tests and chemical structure; often asked as list or MCQ.",
+   "t": "Reactions for reducing sugars",
+   "idea": "القائمة تشمل: Fehling’s Test، Benedict’s Test، Barfoed’s Test، Moore’s Test (Action of alkali)، Osazone test (Phenylhydrazine test).",
+   "why": "قائمة أسماء اختبارات reducing sugars قد تأتي كسؤال عدّد أو اختيار.",
    "page": "11",
-   "alt": "اذكر اختبارات السكريات المختزلة؟ / ما تعريف السكر المختزل؟ / لماذا السكروز غير مختزل؟ / ما الفرق بين Moore و Fehling؟"
+   "alt": "اذكر الاختبارات المستخدمة للكشف عن reducing sugars."
   }
  ],
  "must_know": [
-  "Definition of carbohydrates as polyhydroxyaldehydes or polyhydroxyketones or compounds yielding them on hydrolysis.",
-  "Classification by hydrolysis: mono-, di-, oligo-, polysaccharides; by oxidized group: aldoses and ketoses.",
-  "Molisch's test: procedure, violet ring, dehydration to furfural/HMF, condensation with α-naphthol.",
-  "Fehling's test: red Cu2O, Fehling A = CuSO4, Fehling B = NaOH + Rochelle salt, role of tartrate.",
-  "Benedict's test: brick-red Cu2O, alkaline copper citrate/carbonate, used for reducing sugars.",
-  "Barfoed's test: acidic copper acetate, differentiates monosaccharides from disaccharides by speed.",
-  "Osazone test: phenylhydrazine hydrochloride + sodium acetate, boiling water-bath, crystal shape/time identification.",
-  "Ketose test: conc. HCl boil; fructose reddish brown via furfural, glucose colorless via HMF.",
-  "Reducing sugars: glucose, fructose, maltose, lactose; sucrose is non-reducing.",
-  "Functions of carbohydrates: energy, energy storage, cell membrane components, intercellular communication.",
-  "Practical precautions: add H2SO4 carefully on tube wall and do not shake in Molisch; use freshly prepared phenylhydrazine mixture; cool before microscopic examination of osazone."
+  "تعريف Carbohydrates: polyhydroxyaldehyde أو polyhydroxyketones أو مركبات تعطيها بالhydrolysis.",
+  "تصنيف حسب hydrolysis: mono-، di-، oligo- (3-10)، poly- (>10).",
+  "تصنيف حسب most oxidized group: aldoses (aldehyde) و ketoses (ketone).",
+  "Molisch’s reaction: general لكل الكربوهيدرات، violet ring، تعليلها furfural/HMF + α-naphthol.",
+  "Fehling’s test: red ppt Cu2O، Fehling A copper sulfate، Fehling B NaOH + Rochelle salt، Rochelle salt يمنع CuO.",
+  "Osazone test: yellow brush-shaped/raphides crystals، phenylhydrazine HCl + sodium acetate، 3 molecules phenylhydrazine.",
+  "Ketose test: glucose colorless، fructose reddish brown بسبب furfural مقابل HMF.",
+  "وظائف الكربوهيدرات: energy، storage، cell membrane communication، structural components."
  ],
  "dont_confuse": [
-  "Molisch's test is positive for all carbohydrates, while Fehling/Benedict are positive only for reducing sugars.",
-  "Aldoses contain an aldehyde group; ketoses contain a ketone group. Do not confuse with mono-, di-, and polysaccharides.",
-  "Glucose gives colorless in ketose test; fructose gives reddish brown. The result is not reversed.",
-  "Furfural comes from pentoses/fructose; hydroxymethyl furfural (HMF) comes from hexoses/glucose.",
-  "Fehling A is copper sulfate; Fehling B is NaOH + Rochelle salt. Do not reverse their roles.",
-  "Rochelle salt is sodium potassium tartrate; it chelates Cu2+ and prevents precipitation of Cu(OH)2, but the red precipitate is Cu2O.",
-  "Osazone test uses phenylhydrazine; all reducing sugars can form osazones, but crystal shape and time differ.",
-  "Barfoed's test is not simply positive/negative; monosaccharides react faster, while disaccharides may need prolonged boiling.",
-  "Benedict's reagent uses alkaline copper citrate/carbonate; Fehling uses alkaline copper tartrate.",
-  "Sucrose is non-reducing because it has no free anomeric hydroxyl group, but it gives Molisch after hydrolysis."
+  "Molisch’s reaction عام لكل الكربوهيدرات وليس خاصا بـ reducing sugars فقط.",
+  "Fehling A هو copper sulfate، وFehling B هو sodium hydroxide + Rochelle salt؛ لا تعكس المكونات.",
+  "Rochelle salt دوره إبقاء Cu+2 في solution ومنع cupric hydroxide و black CuO، وليس هو العامل المختزل.",
+  "Fehling A و Fehling B يحفظان منفصلين لمنع auto-reduction.",
+  "في Ketose test: fructose يعطي reddish brown، glucose يعطي colorless؛ لا تعكس الألوان.",
+  "Glucosazone و Fructosazone كلاهما yellow brush-shaped/raphides، لكن التمييز الأساسي هنا في ketose test.",
+  "Aldoses فيها aldehyde، Ketoses فيها ketone؛ لا تخلط مع تصنيف mono/di/poly."
  ],
- "one_min": "تلخّص المحاضرة تعريف الكربوهيدرات بأنها مركبات عضوية من C و H و O، وهي polyhydroxyaldehyde أو polyhydroxyketone أو مواد تعطيها عند التحلل المائي، ووظائفها تشمل إمداد الجسم بالطاقة وخزنها وتركيب أغشية الخلايا والاتصال بين الخلايا. وتُصنّف حسب نواتج التحلل المائي إلى monosaccharides و disaccharides و oligosaccharides و polysaccharides، وحسب المجموعة المؤكسدة إلى aldoses و ketoses. وتشمل التفاعلات العامة اختبار Molisch الذي يعطي حلقة بنفسجية لكل الكربوهيدرات بسبب تكوين furfural أو HMF وتكاثفه مع α-naphthol، واختبارات السكريات المختزلة مثل Fehling الذي يعطي راسب أحمر Cu2O، وBenedict، وBarfoed، وMoore، وOsazone لتكوين بلورات مميزة. كما يوجد اختبار Ketose للتمييز بين الجلوكوز والفركتوز، حيث يعطي الفركتوز لوناً بنياً محمراً مع HCl المركز بينما يظل الجلوكوز عديم اللون. أهم نقاط الامتحان هي معرفة الأساس الكيميائي، المكونات، الخطوات، والملاحظة اللونية لكل اختبار."
+ "one_min": "ركز على: تعريف الكربوهيدرات، تصنيفها بالhydrolysis وبالمجموعة المؤكسدة، Molisch (violet ring)، Fehling (Cu2O أحمر ودور Rochelle salt)، Osazone (yellow raphides و3 phenylhydrazine)، Ketose test (glucose colorless / fructose reddish brown)، ووظائف الكربوهيدرات."
 }
