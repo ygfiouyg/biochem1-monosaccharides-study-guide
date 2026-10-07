@@ -1164,87 +1164,93 @@
  ],
  "high_risk": [
   {
-   "t": "تعريف Carbohydrates",
-   "idea": "Carbohydrates هي مواد عضوية تحتوي على C, H, O، وهي polyhydroxyaldehyde أو polyhydroxyketones، أو أي مركب يعطي هذه المواد عند hydrolysis.",
-   "why": "تعريف أساسي ومباشر من أول صفحة، سؤال تعريف/اختيار متوقع.",
+   "t": "تعريف الكربوهيدرات (Definition of Carbohydrates)",
+   "idea": "الكربوهيدرات مواد عضوية تحتوي على C و H و O، وهي polyhydroxyaldehydes أو polyhydroxyketones، أو أي مركب يعطي هذه المواد عند التحلل المائي (hydrolysis).",
+   "why": "صيغة التعريف الكامل (بما فيه جزء الـ hydrolysis) سؤال تقليدي ثابت في بداية أي امتحان على هذا الفصل.",
    "page": "3",
-   "alt": "عرف الكربوهيدرات؟ / ما الشروط الكيميائية لاعتبار المركب carbohydrate؟"
+   "alt": "اذكر تعريف الكربوهيدرات كيميائياً / لماذا تُسمى polyhydroxyaldehyde or ketone؟"
   },
   {
-   "t": "Classification حسب نواتج hydrolysis",
-   "idea": "Monosaccharides وحدة سكر واحدة، Disaccharides وحدتان، Oligosaccharides من 3-10 وحدات، Polysaccharides أكثر من 10 وحدات.",
-   "why": "تصنيف عددي سهل التحويل لسؤال MCQ أو أكمل.",
+   "t": "وظائف الكربوهيدرات (Functions)",
+   "idea": "أربع وظائف: (A) مصدر طاقة في الغذاء، (B) صورة تخزينية للطاقة في الجسم، (C) مكونات لغشاء الخلية تتوسط التواصل بين الخلايا، (D) مكون تركيبي: جدار البكتيريا، exoskeleton الحشرات، cellulose النباتات.",
+   "why": "قائمة من 4 نقاط سهلة التحويل إلى سؤال «عدّد» أو سؤال MCQ عن الوظيفة التركيبية.",
+   "page": "3",
+   "alt": "ما الدور التركيبي للكربوهيدرات؟ / أي وظيفة تخص exoskeleton الحشرات؟"
+  },
+  {
+   "t": "التصنيف حسب نواتج التحلل المائي (Classification by hydrolysis products)",
+   "idea": "Monosaccharides: وحدة سكر واحدة. Disaccharides: وحدتان. Oligosaccharides: من 3 إلى 10 وحدات. Polysaccharides: أكثر من 10 وحدات.",
+   "why": "الأرقام (3-10 و >10) نقطة امتحانية مفضلة، والخطأ فيها شائع جداً.",
    "page": "4",
-   "alt": "صنف الكربوهيدرات حسب نواتج التحلل المائي مع ذكر عدد وحدات السكر."
+   "alt": "كم عدد وحدات السكر في الـ oligosaccharides؟ / فرّق بين oligo- و poly-saccharides."
   },
   {
-   "t": "Classification حسب most oxidized functional group",
-   "idea": "Aldoses تحتوي aldehyde كأكثر مجموعة مؤكسدة، Ketoses تحتوي ketone كأكثر مجموعة مؤكسدة.",
-   "why": "تمييز أساسي بين aldoses و ketoses، وكثيرا ما يطلب مع أمثلة.",
+   "t": "التصنيف حسب أكثر مجموعة وظيفية تأكسداً (Aldoses & Ketoses)",
+   "idea": "Aldoses: الكربوهيدرات التي تحتوي على aldehyde كأكثر مجموعة وظيفية تأكسداً. Ketoses: التي تحتوي على ketone كأكثر مجموعة وظيفية تأكسداً.",
+   "why": "سؤال MCQ مباشر: تصنيف الجلوكوز (aldose) والفركتوز (ketose).",
    "page": "4",
-   "alt": "ما الفرق بين aldoses و ketoses؟ / صنف حسب المجموعة الوظيفية الأكثر تأكسدا."
+   "alt": "الجلوكوز aldose أم ketose؟ / عرّف الـ ketose."
   },
   {
-   "t": "Molisch's reaction",
-   "idea": "تفاعل عام لكل Carbohydrates: إضافة alcoholic α-naphthol ثم conc. sulfuric acid على جدار الأنبوب دون رج؛ يتكون violet ring عند junction. التعليل: dehydration إلى furfural في fructose أو hydroxymethyl furfural (HMF) في glucose، ثم condensation مع 2 molecules alpha naphthol.",
-   "why": "تفاعل عام مميز لكل الكربوهيدرات، والخطوات والتعليل مرشحون بقوة.",
+   "t": "اختبار Molisch (تفاعل عام لكل الكربوهيدرات)",
+   "idea": "الخطوات: 2 مل محلول سكر + 1-2 قطرة α-naphthol كحولي + 2 مل H2SO4 مركز على جدار الأنبوبة دون رجّ. المشاهدة: حلقة بنفسجية (violet ring) عند التقاء الطبقتين تنتشر بالرجّ.",
+   "why": "التفاصيل العملية (الترتيب، عدم الرجّ، موضع الحلقة) تُسأل كثيراً كنقاط متتابعة.",
    "page": "9",
-   "alt": "اكتب procedure وobservation وcomment لتفاعل Molisch."
+   "alt": "لماذا يُعد Molisch تفاعلاً عاماً؟ / أين تتكون الحلقة البنفسجية؟"
   },
   {
-   "t": "Fehling’s test",
-   "idea": "اختبار reducing sugars: خلط Fehling A + Fehling B ثم إضافة sugar solution والغليان؛ observation: red precipitate of cuprous oxide Cu2O. Fehling A = copper sulfate، Fehling B = sodium hydroxide + Rochelle salt. Rochelle salt يبقي Cu+2 في solution ويمنع تكوين cupric hydroxide و black cupric oxide CuO. Fehling A و B يحفظان منفصلين لمنع auto-reduction. التعليل: reduction of Cu2+ to Cu2O بسبب free carbonyl group.",
-   "why": "تفاصيل procedure وobservation وrole of Rochelle salt وتعليل الاختزال كلها نقاط امتحانية عالية التكرار.",
-   "page": "12",
-   "alt": "اشرح Fehling’s test مع التعليل ودور Rochelle salt."
+   "t": "تفسير Molisch (Comment/Mechanism)",
+   "idea": "H2SO4 المركز يجفف السكر إلى furfural (من الفركتوز) أو hydroxymethyl furfural - HMF (من الجلوكوز)، ثم يتكاثف HMF مع جزيئين من α-naphthol مكوّناً الحلقة البنفسجية.",
+   "why": "الفرق furfural مقابل HMF وعدد جزيئات α-naphthol (جزيئان) من أكثر النقاط المطلوبة كسؤال «اشرح».",
+   "page": "9",
+   "alt": "ما ناتج تجفيف الفركتوز مقابل الجلوكوز؟ / مع كم جزيء α-naphthol يتكاثف؟"
   },
   {
-   "t": "Osazone test (Phenylhydrazine test)",
-   "idea": "اختبار reducing sugars: إضافة acetic acid ثم freshly-prepared mixture of phenylhydrazine hydrochloride و sodium acetate، تسخين في boiling water-bath 5-10 min، ثم فحص crystals تحت microscope. Observation: yellow crystals brush-shaped (Raphides) of Glucosazone & Fructosazone. التعليل: تفاعل free aldehydic or ketone group مع 3 molecules phenyl hydrazine HCl في ثلاث خطوات: condensation, oxidation, ثم condensation.",
-   "why": "اسم التفاعل، الشكل المجهري، والخطوات الثلاث مرشحون لسؤال مقالي أو MCQ.",
+   "t": "اختبار الأوزازون (Osazone / Phenylhydrazine test)",
+   "idea": "الخطوات: 10 قطرات acetic acid إلى 2 مل محلول سكر + ~1 جم خليط طازج من phenylhydrazine HCl و sodium acetate، تسخين في حمام مائي مغلي 5-10 دقائق، ثم فحص البلورات بالميكروسكوب. المشاهدة: بلورات صفراء على شكل فرشاة (brush-shaped / Raphides) تُسمى Glucosazone و Fructosazone.",
+   "why": "سؤال عملي متكامل: الخطوات + شكل البلورات + الأسماء، وجميعها تفاصيل يحفظها الطالب للامتحان العملي والنظري.",
    "page": "16",
-   "alt": "اكتب procedure وobservation وcomment لـ Osazone test."
+   "alt": "ما شكل بلورات الأوزازون؟ / لماذا يجب أن يكون خليط phenylhydrazine طازجاً؟"
   },
   {
-   "t": "Ketose test للتمييز بين glucose و fructose",
-   "idea": "إضافة 2 ml sugar solution إلى 1 ml conc HCl والغليان 2 min. Observation: Glucose colorless، Fructose reddish brown. التعليل: fructose يتdehydrate إلى furfural وهو reddish brown في acidic medium؛ glucose يتdehydrate إلى HMF وهو colorless في acidic medium.",
-   "why": "سؤال تمييز مباشر بين سكرين، مع لون واضح وتعليل كيميائي.",
-   "page": "19",
-   "alt": "كيف تفرق بين glucose و fructose باستخدام Ketose test؟ مع التعليل."
+   "t": "تفسير اختبار الأوزازون (Mechanism)",
+   "idea": "ينتج من تفاعل مجموعة الألدهيد أو الكيتون الحرة في جزيء السكر مع 3 جزيئات phenylhydrazine HCl في 3 خطوات متتالية: condensation ثم oxidation ثم condensation.",
+   "why": "رقم «3 جزيئات» وترتيب الخطوات الثلاث (تكاثف-أكسدة-تكاثف) نقطة امتحانية دقيقة ومتكررة.",
+   "page": "16",
+   "alt": "اذكر الخطوات الثلاث لتكوين الأوزازون / كم جزيء phenylhydrazine يلزم؟"
   },
   {
-   "t": "Functions of Carbohydrates",
-   "idea": "A. Provide energy in diet. B. Storage form of energy in body. C. Cell membrane components mediating intercellular communication. D. Structural component في cell walls of bacteria، exoskeleton of insects، fibrous cellulose of plants.",
-   "why": "قائمة وظائف متعددة، سهلة التحويل إلى سؤال اختيار من متعدد أو أكمل.",
-   "page": "3",
-   "alt": "اذكر وظائف الكربوهيدرات في الكائنات الحية."
+   "t": "التفريق بين الجلوكوز والفركتوز (Differentiation)",
+   "idea": "قسم مخصص للتفاعلات التي تفرّق بين glucose و fructose — الفركتوز ketose والجلوكوز aldose، وكلاهما يعطي أوزازون (glucosazone/fructosazone) لكنهما يتمايزان باختبارات خاصة بالمجموعة الوظيفية.",
+   "why": "العنوان «Reaction for differentiation between glucose and fructose» يوحي بسؤال مقارنة مباشر عالي الاحتمال.",
+   "page": "18",
+   "alt": "كيف تفرّق معملياً بين محلول جلوكوز ومحلول فركتوز؟"
   },
   {
-   "t": "Reactions for reducing sugars",
-   "idea": "القائمة تشمل: Fehling’s Test، Benedict’s Test، Barfoed’s Test، Moore’s Test (Action of alkali)، Osazone test (Phenylhydrazine test).",
-   "why": "قائمة أسماء اختبارات reducing sugars قد تأتي كسؤال عدّد أو اختيار.",
-   "page": "11",
-   "alt": "اذكر الاختبارات المستخدمة للكشف عن reducing sugars."
+   "t": "أمثلة المونوسكاريدات (Glucose & Fructose)",
+   "idea": "المونوسكاريدات الممثلة في الفصل هما Glucose و Fructose، ويُصنّف الجلوكوز aldose والفركتوز ketose.",
+   "why": "صورة/سؤال تعريف مباشر عن الأمثلة الأساسية التي بُني عليها باقي التفاعلات.",
+   "page": "5",
+   "alt": "اذكر مثالين على monosaccharides وحدد نوع كل منهما."
   }
  ],
  "must_know": [
-  "تعريف Carbohydrates: polyhydroxyaldehyde أو polyhydroxyketones أو مركبات تعطيها بالhydrolysis.",
-  "تصنيف حسب hydrolysis: mono-، di-، oligo- (3-10)، poly- (>10).",
-  "تصنيف حسب most oxidized group: aldoses (aldehyde) و ketoses (ketone).",
-  "Molisch’s reaction: general لكل الكربوهيدرات، violet ring، تعليلها furfural/HMF + α-naphthol.",
-  "Fehling’s test: red ppt Cu2O، Fehling A copper sulfate، Fehling B NaOH + Rochelle salt، Rochelle salt يمنع CuO.",
-  "Osazone test: yellow brush-shaped/raphides crystals، phenylhydrazine HCl + sodium acetate، 3 molecules phenylhydrazine.",
-  "Ketose test: glucose colorless، fructose reddish brown بسبب furfural مقابل HMF.",
-  "وظائف الكربوهيدرات: energy، storage، cell membrane communication، structural components."
+  "تعريف الكربوهيدرات: polyhydroxyaldehyde أو polyhydroxyketone أو ما يعطيها بالتحلل المائي (ص3).",
+  "التصنيف حسب التحلل المائي: mono (1)، di (2)، oligo (3-10)، poly (أكثر من 10) (ص4).",
+  "التصنيف حسب أكثر مجموعة تأكسداً: aldoses (aldehyde) و ketoses (ketone) (ص4).",
+  "وظائف الكربوهيدرات الأربع: طاقة، تخزين طاقة، مكون غشاء خلوي وتواصل بين الخلايا، مكون تركيبي (ص3).",
+  "Molisch: تفاعل عام لكل الكربوهيدرات، حلقة بنفسجية عند التقاء الطبقتين، لا تُرج الأنبوبة (ص9).",
+  "تفسير Molisch: تجفيف → furfural (فركتوز) أو HMF (جلوكوز) → تكاثف مع جزيئين α-naphthol (ص9).",
+  "Osazone test: خليط طازج phenylhydrazine HCl + sodium acetate مع acetic acid، تسخين 5-10 دقائق، بلورات صفراء brush-shaped (Raphides): glucosazone و fructosazone (ص16).",
+  "ميكانيزم الأوزازون: 3 جزيئات phenylhydrazine في 3 خطوات: condensation → oxidation → condensation (ص16)."
  ],
  "dont_confuse": [
-  "Molisch’s reaction عام لكل الكربوهيدرات وليس خاصا بـ reducing sugars فقط.",
-  "Fehling A هو copper sulfate، وFehling B هو sodium hydroxide + Rochelle salt؛ لا تعكس المكونات.",
-  "Rochelle salt دوره إبقاء Cu+2 في solution ومنع cupric hydroxide و black CuO، وليس هو العامل المختزل.",
-  "Fehling A و Fehling B يحفظان منفصلين لمنع auto-reduction.",
-  "في Ketose test: fructose يعطي reddish brown، glucose يعطي colorless؛ لا تعكس الألوان.",
-  "Glucosazone و Fructosazone كلاهما yellow brush-shaped/raphides، لكن التمييز الأساسي هنا في ketose test.",
-  "Aldoses فيها aldehyde، Ketoses فيها ketone؛ لا تخلط مع تصنيف mono/di/poly."
+  "لا تخلط بين furfural (ينتج من fructose) و hydroxymethyl furfural HMF (ينتج من glucose) في Molisch.",
+  "لا تخلط بين Oligosaccharides (3-10 وحدات) و Polysaccharides (أكثر من 10 وحدات)؛ الرقم 10 هو الحد الفاصل.",
+  "لا تخلط بين Aldose (aldehyde) و Ketose (ketone)؛ الجلوكوز aldose والفركتوز ketose.",
+  "لا تخلط بين Glucosazone و Fructosazone في اسم البلورات رغم تشابه الشكل (brush-shaped) واللون الأصفر.",
+  "Molisch تفاعل عام لكل الكربوهيدرات، أما Osazone فيعتمد على المجموعة الألدهيدية/الكيتونية الحرة — لا تعتبره اختباراً عاماً بنفس الدرجة.",
+  "ترتيب خطوات الأوزازون ليس تكاثف-تكاثف-أكسدة بل condensation ثم oxidation ثم condensation."
  ],
- "one_min": "ركز على: تعريف الكربوهيدرات، تصنيفها بالhydrolysis وبالمجموعة المؤكسدة، Molisch (violet ring)، Fehling (Cu2O أحمر ودور Rochelle salt)، Osazone (yellow raphides و3 phenylhydrazine)، Ketose test (glucose colorless / fructose reddish brown)، ووظائف الكربوهيدرات."
+ "one_min": "الكربوهيدرات = polyhydroxyaldehyde/ketone (C,H,O) تُصنّف بالتحلل المائي إلى mono/di (2)/oligo (3-10)/poly (>10)، وبالمجموعة التأكسدية إلى aldoses و ketoses. وظائفها: طاقة، تخزين، غشاء خلوي، تركيب. Molisch تفاعل عام: تجفيف → furfural/HMF → تكاثف مع 2 α-naphthol = حلقة بنفسجية. Osazone: خليط طازج phenylhydrazine + sodium acetate، تسخين 5-10 د → بلورات صفراء brush-shaped (glucosazone/fructosazone)، الميكانيزم 3 جزيئات phenylhydrazine عبر condensation-oxidation-condensation، ثم تأتي تفاعلات التفريق بين الجلوكوز والفركتوز."
 }
