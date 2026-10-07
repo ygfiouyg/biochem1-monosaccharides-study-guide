@@ -1,0 +1,18 @@
+ B. Reactions for reducing sugars
+ .1Fehling’s test:
+ -Procedure:
+Mix 1 ml of Fehling A and 1 ml of Fehling B in a clean test tube
+shake.
+Add 2 ml of sugar solution to fehling mixture and boil for 2 min.
+-Observation: Red precipitate
+                  of cuprous oxide Cu2O
+ -Fehling A is a copper sulfate solution.
+-Fehling B contains sodium hydroxide an d Rochelle salt (sodium
+potassium tartrate.
+Rochelle salt role: is to keep cu+2 ion in solution to prevent the
+formation of the cupric hydroxide and black cupric oxide CuO.
+-Fehling A and Fehling B kept separately to prevent auto-reduction.
+Comment:
+Reduction of Cu2+ to Cu2O Due to presence of free carbonyl group. It
+is reducing sugar.
+

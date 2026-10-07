@@ -1,0 +1,88 @@
+{
+ "lecture": "Monosaccharides",
+ "pdf": "Monosaccharides.pdf.pdf",
+ "pages": 20,
+ "model": "baai/bge-m3",
+ "chunks": [
+  {
+   "page": "01",
+   "chars": 14
+  },
+  {
+   "page": "02",
+   "chars": 26
+  },
+  {
+   "page": "03",
+   "chars": 581
+  },
+  {
+   "page": "04",
+   "chars": 494
+  },
+  {
+   "page": "05",
+   "chars": 47
+  },
+  {
+   "page": "06",
+   "chars": 7
+  },
+  {
+   "page": "07",
+   "chars": 8
+  },
+  {
+   "page": "08",
+   "chars": 0
+  },
+  {
+   "page": "09",
+   "chars": 546
+  },
+  {
+   "page": "10",
+   "chars": 18
+  },
+  {
+   "page": "11",
+   "chars": 167
+  },
+  {
+   "page": "12",
+   "chars": 692
+  },
+  {
+   "page": "13",
+   "chars": 0
+  },
+  {
+   "page": "14",
+   "chars": 0
+  },
+  {
+   "page": "15",
+   "chars": 0
+  },
+  {
+   "page": "16",
+   "chars": 732
+  },
+  {
+   "page": "17",
+   "chars": 35
+  },
+  {
+   "page": "18",
+   "chars": 61
+  },
+  {
+   "page": "19",
+   "chars": 403
+  },
+  {
+   "page": "20",
+   "chars": 0
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+3. Classification :
+
+      According to the products of their hydrolysis:
+      1. Monosaccharides contain one sugar unit.
+      2. Disaccharides contain two sugar unit.
+      3. Oligosaccharides contain 3-10 sugar units.
+      4. Polysaccharides contain more than 10 sugar units.
+
+
+According to their most oxidized functional group:
+1. Aldoses Carbohydrates with an aldehyde as their most oxidized
+functional group
+2. Ketoses Carbohydrates with a ketone as their most oxidized
+functional group
+

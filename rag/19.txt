@@ -1,0 +1,15 @@
+                        Ketose test :
+Procedure :
+1) Add 2 ml of sugar solution to 1 ml of conc HCl solution.
+2) Boil for 2 min.
+Observation:
+Glucose: Colorless.
+Fructose: Reddish brown.
+Comment:
+In case of fructose:
+ Dehydration of fructose and formation of furfural which is reddish brown
+ in color in acidic medium.
+In case of glucose:
+  Dehydration to hydroxymethyl furfural (HMF) which is colorless in
+   acidic medium.
+

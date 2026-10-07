@@ -1,0 +1,1256 @@
+{
+ "slug": "Monosaccharides",
+ "pages": [
+  {
+   "page": 1,
+   "en": "Biochemistry-I",
+   "ar": "الكيمياء الحيوية - الجزء الأول (Biochemistry-I).",
+   "ex": "تخيلها كعنوان المحاضرة على غلاف الكتاب: Biochemistry-I.",
+   "q": [
+    {
+     "q": "What is the title shown on this page?",
+     "o": [
+      "Biochemistry-I",
+      "Carbohydrates",
+      "Monosaccharides",
+      "Glucose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "This page belongs to which course?",
+     "o": [
+      "Biochemistry-I",
+      "Organic Chemistry-II",
+      "Microbiology",
+      "Pharmacology"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The text on page 1 is:",
+     "o": [
+      "Section (1)",
+      "Carbohydrates",
+      "Biochemistry-I",
+      "Fructose"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Which term is written with a roman numeral?",
+     "o": [
+      "Biochemistry-I",
+      "Carbohydrates",
+      "Monosaccharides",
+      "Glucose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The page indicates the lecture subject as:",
+     "o": [
+      "Cell Biology",
+      "Genetics",
+      "Biochemistry-I",
+      "Anatomy"
+     ],
+     "a": 2
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Section (1)\n\nCarbohydrates",
+   "ar": "القسم الأول: الكربوهيدرات (Carbohydrates).",
+   "ex": "زي ما يكون عنوان الباب في كتاب: Section (1) ثم الموضوع الكبير Carbohydrates.",
+   "q": [
+    {
+     "q": "What is the section number?",
+     "o": [
+      "Section (1)",
+      "Section (2)",
+      "Section (3)",
+      "Section (4)"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What topic is named on this page?",
+     "o": [
+      "Proteins",
+      "Lipids",
+      "Nucleic acids",
+      "Carbohydrates"
+     ],
+     "a": 3
+    },
+    {
+     "q": "The page heading includes which word?",
+     "o": [
+      "Monosaccharides",
+      "Carbohydrates",
+      "Glucose",
+      "Fructose"
+     ],
+     "a": 1
+    },
+    {
+     "q": "This page introduces:",
+     "o": [
+      "Enzymes",
+      "Carbohydrates",
+      "Vitamins",
+      "Hormones"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Which appears above the word Carbohydrates?",
+     "o": [
+      "Section (1)",
+      "Section (2)",
+      "Chapter 2",
+      "Unit 3"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "Carbohydrates\n1. Definition:\nCarbohydrates are organic substances containing C, H, and O. They are polyhydroxyaldehyde or polyhydroxyketones, or any compound giving these substances on hydrolysis.\n\n2. Function:\nA. Provide energy in the diet of most organisms.\nB. Acting as a storage form of energy in the body.\nC. Serve as cell membrane components that mediate some forms of intercellular communication.\nD. Serve as a structural component of many organisms, including the cell walls of bacteria, the exoskeleton of many insects and the fibrous cellulose of plants.",
+   "ar": "تعريف الكربوهيدرات: مواد عضوية تحتوي على C و H و O، وهي polyhydroxyaldehyde أو polyhydroxyketones، أو أي مركب ينتج هذه المواد عند التحلل المائي (hydrolysis). وظائفها: (A) مصدر طاقة في غذاء معظم الكائنات. (B) تخزين الطاقة في الجسم. (C) مكونات غشاء الخلية وتشارك في بعض أشكال التواصل بين الخلايا. (D) مكون تركيبي في كائنات كثيرة، مثل جدران خلايا البكتيريا، الهيكل الخارجي لبعض الحشرات، والسليولوز الليفي في النباتات.",
+   "ex": "تخيل الكربوهيدرات كـ وقود + مخزن + قطع بناء: زي البنزين للطاقة، والشاحن للاحتياطي، والطوب في البناء.",
+   "q": [
+    {
+     "q": "Carbohydrates contain which elements?",
+     "o": [
+      "C, H, N",
+      "C, H, O",
+      "C, O, P",
+      "H, O, N"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Carbohydrates are polyhydroxyaldehyde or:",
+     "o": [
+      "polyamino acids",
+      "polynucleotides",
+      "polyhydroxyketones",
+      "polyterpenes"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Which is a function of carbohydrates?",
+     "o": [
+      "Provide energy in the diet",
+      "Act as enzymes",
+      "Store genetic information",
+      "Transport oxygen"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Carbohydrates can serve as structural component of:",
+     "o": [
+      "Hemoglobin",
+      "DNA",
+      "Cell walls of bacteria",
+      "Plasma membrane only"
+     ],
+     "a": 2
+    },
+    {
+     "q": "A compound that gives polyhydroxyaldehyde or polyhydroxyketones on hydrolysis is classified as:",
+     "o": [
+      "Protein",
+      "Lipid",
+      "Nucleic acid",
+      "Carbohydrate"
+     ],
+     "a": 3
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "en": "3. Classification:\nAccording to the products of their hydrolysis:\n1. Monosaccharides contain one sugar unit.\n2. Disaccharides contain two sugar units.\n3. Oligosaccharides contain 3-10 sugar units.\n4. Polysaccharides contain more than 10 sugar units.\n\nAccording to their most oxidized functional group:\n1. Aldoses: Carbohydrates with an aldehyde as their most oxidized functional group.\n2. Ketoses: Carbohydrates with a ketone as their most oxidized functional group.",
+   "ar": "تصنيف الكربوهيدرات: حسب نواتج التحلل المائي: Monosaccharides وحدة سكر واحدة، Disaccharides وحدتان، Oligosaccharides من 3 إلى 10 وحدات، Polysaccharides أكثر من 10 وحدات. وحسب المجموعة الوظيفية الأكثر تأكسدًا: Aldoses فيها aldehyde، Ketoses فيها ketone.",
+   "ex": "تصنيف حسب عدد قطع الليجو: قطعة = monosaccharide، قطعتين = disaccharide، 3-10 = oligosaccharide، أكثر من 10 = polysaccharide. وتصنيف حسب الوجه المؤكسد: إما aldehyde (aldose) أو ketone (ketose).",
+   "q": [
+    {
+     "q": "Monosaccharides contain how many sugar units?",
+     "o": [
+      "one",
+      "two",
+      "3-10",
+      "more than 10"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Oligosaccharides contain:",
+     "o": [
+      "1",
+      "2",
+      "3-10",
+      "more than 10"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Polysaccharides contain:",
+     "o": [
+      "more than 10",
+      "exactly 10",
+      "2",
+      "1"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Carbohydrates with an aldehyde as most oxidized functional group are:",
+     "o": [
+      "aldoses",
+      "ketoses",
+      "disaccharides",
+      "polysaccharides"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Carbohydrates with a ketone as most oxidized functional group are:",
+     "o": [
+      "ketoses",
+      "aldoses",
+      "oligosaccharides",
+      "monosaccharides"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "en": "Monosaccharides\n\nExamples shown: Glucose, Fructose",
+   "ar": "Monosaccharides (السكريات الأحادية). أمثلة ظاهرة: Glucose (الجلوكوز) و Fructose (الفركتوز).",
+   "ex": "السكريات الأحادية زي قطعة ليجو واحدة: أبسط وحدة سكر. من أمثلتها Glucose و Fructose.",
+   "q": [
+    {
+     "q": "What is the title of this page?",
+     "o": [
+      "Monosaccharides",
+      "Disaccharides",
+      "Polysaccharides",
+      "Carbohydrates"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which two examples are shown?",
+     "o": [
+      "Glucose and Galactose",
+      "Glucose and Fructose",
+      "Sucrose and Lactose",
+      "Starch and Cellulose"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Which of these is shown as a monosaccharide?",
+     "o": [
+      "Sucrose",
+      "Starch",
+      "Glucose",
+      "Cellulose"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Fructose is shown together with:",
+     "o": [
+      "Glucose",
+      "Maltose",
+      "Lactose",
+      "Glycogen"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Monosaccharides contain how many sugar units according to the classification?",
+     "o": [
+      "one",
+      "two",
+      "3-10",
+      "more than 10"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "en": "Glucose",
+   "ar": "Glucose (الجلوكوز).",
+   "ex": "الجلوكوز هو السكر البسيط المشهور، زي الوقود السريع للخلايا.",
+   "q": [
+    {
+     "q": "What is the title of this page?",
+     "o": [
+      "Fructose",
+      "Monosaccharides",
+      "Glucose",
+      "Carbohydrates"
+     ],
+     "a": 2
+    },
+    {
+     "q": "This page focuses on which monosaccharide?",
+     "o": [
+      "Fructose",
+      "Glucose",
+      "Galactose",
+      "Sucrose"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Glucose is classified as a:",
+     "o": [
+      "monosaccharide",
+      "disaccharide",
+      "oligosaccharide",
+      "polysaccharide"
+     ],
+     "a": 0
+    },
+    {
+     "q": "On page 5, glucose was listed with:",
+     "o": [
+      "Fructose",
+      "Lactose",
+      "Starch",
+      "Cellulose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The word shown on page 6 is:",
+     "o": [
+      "Fructose",
+      "Glucose",
+      "Monosaccharides",
+      "Section (1)"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "en": "Fructose",
+   "ar": "Fructose (الفركتوز).",
+   "ex": "الفركتوز سكر أحادي موجود في الفواكه، وهو من أمثلة السكريات الأحادية.",
+   "q": [
+    {
+     "q": "What is the title of this page?",
+     "o": [
+      "Glucose",
+      "Monosaccharides",
+      "Fructose",
+      "Carbohydrates"
+     ],
+     "a": 2
+    },
+    {
+     "q": "This page focuses on which monosaccharide?",
+     "o": [
+      "Glucose",
+      "Fructose",
+      "Galactose",
+      "Lactose"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Fructose is classified as a:",
+     "o": [
+      "monosaccharide",
+      "disaccharide",
+      "oligosaccharide",
+      "polysaccharide"
+     ],
+     "a": 0
+    },
+    {
+     "q": "On page 5, fructose was listed with:",
+     "o": [
+      "Glucose",
+      "Sucrose",
+      "Starch",
+      "Glycogen"
+     ],
+     "a": 0
+    },
+    {
+     "q": "The word shown on page 7 is:",
+     "o": [
+      "Glucose",
+      "Monosaccharides",
+      "Section (1)",
+      "Fructose"
+     ],
+     "a": 3
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "en": "No textual content on this page in the provided text (blank/image-only page).",
+   "ar": "الصفحة دي مفيش فيها نص مكتوب في اللي اتقدم (صفحة فاضية/صورة فقط).",
+   "ex": "تخيلها صفحة فاضية أو صورة من غير كلام؛ بنكمل اللي بعدها.",
+   "q": [
+    {
+     "q": "Which reaction is a general reaction for all carbohydrates according to the provided lecture?",
+     "o": [
+      "Fehling's test",
+      "Molisch's reaction",
+      "Benedict's test",
+      "Osazone test"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Molisch's reagent contains?",
+     "o": [
+      "Rochelle salt",
+      "copper sulfate",
+      "alcoholic α-naphthol",
+      "sodium hydroxide"
+     ],
+     "a": 2
+    },
+    {
+     "q": "In Molisch's test, concentrated sulfuric acid dehydrates fructose to?",
+     "o": [
+      "Cu2O",
+      "Rochelle salt",
+      "CuO",
+      "furfural"
+     ],
+     "a": 3
+    },
+    {
+     "q": "Which of these is listed as a reaction for reducing sugars?",
+     "o": [
+      "Fehling's Test",
+      "Molisch's reaction",
+      "Ninhydrin reaction",
+      "Biuret test"
+     ],
+     "a": 0
+    },
+    {
+     "q": "A positive Fehling's test gives a red precipitate of?",
+     "o": [
+      "CuO",
+      "Cu2O",
+      "CuSO4",
+      "Cu(OH)2"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "en": "General Reactions for all Carbohydrates.\nA. Molisch's reaction:\nProcedure:\n1) Place about 2 ml of sugar solution in a test tube.\n2) Add 1-2 drops of alcoholic α-naphthol.\n3) Add 2 ml of conc. sulfuric acid carefully on the wall of the tube & don’t shake.\nObservation:\nViolet ring at the junction of the 2 layers spreads by shaking.\nComment:\n1. Dehydration of sugar to furfural in fructose or hydroxymethyl furfural (HMF) in glucose by conc sulphuric.\n2. Condensation of HMF with 2 molecules of alpha naphthol giving violet ring.",
+   "ar": "تفاعلات عامة لكل الكربوهيدرات (General Reactions for all Carbohydrates).\nA. اختبار Molisch:\nالخطوات (Procedure):\n1) حط حوالي 2 ml من محلول السكر في أنبوبة اختبار.\n2) ضيف 1-2 نقطة من alcoholic α-naphthol.\n3) ضيف 2 ml من conc. sulfuric acid بحرص على حيطة الأنبوبة وما ترجّش (don’t shake).\nالملاحظة (Observation):\nيظهر violet ring عند ملتقى الطبقتين (junction of the 2 layers)، وينتشر بالرج (shaking).\nالتعليق (Comment):\n1. حامض الكبريتيك المركز بيعمل dehydration للسكر: يطلع furfural في حالة fructose أو hydroxymethyl furfural (HMF) في حالة glucose.\n2. الـ HMF يتحد مع 2 molecules من alpha naphthol فيكوّن اللون البنفسجي (violet ring).",
+   "ex": "تخيل طبقتين: فوق محلول سكر، وتحت حمض كبريتيك مركز. عند السطح بينهم يظهر شريط بنفسجي لو فيه كربوهيدرات. الحمض بيكسر السكر فيطلع furfural أو HMF، والـ HMF يتجمع مع alpha naphthol ويطلع اللون البنفسجي.",
+   "q": [
+    {
+     "q": "Molisch's reaction is a general test for?",
+     "o": [
+      "Proteins",
+      "Carbohydrates",
+      "Lipids",
+      "Nucleic acids"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Which reagent is added before conc. sulfuric acid in Molisch's test?",
+     "o": [
+      "Fehling A",
+      "Fehling B",
+      "Alcoholic α-naphthol",
+      "Rochelle salt"
+     ],
+     "a": 2
+    },
+    {
+     "q": "The violet ring in Molisch's test appears at?",
+     "o": [
+      "Bottom of tube",
+      "Junction of the 2 layers",
+      "Top of tube",
+      "Inside the sugar only"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Conc. sulfuric acid dehydrates glucose to?",
+     "o": [
+      "Furfural",
+      "Hydroxymethyl furfural (HMF)",
+      "Cu2O",
+      "Rochelle salt"
+     ],
+     "a": 1
+    },
+    {
+     "q": "The violet color in Molisch's test is due to condensation of HMF with?",
+     "o": [
+      "1 molecule of alpha naphthol",
+      "2 molecules of alpha naphthol",
+      "Cu2+ ions",
+      "Rochelle salt"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "en": "Molisch's reaction — title/diagram page. No additional textual content.",
+   "ar": "صفحة Molisch's reaction: عنوان/رسمة توضيحية، مفيش نص إضافي.",
+   "ex": "زي صورة في السلايد بتوضح ظهور الحلقة البنفسجية عند ملتقى الطبقتين.",
+   "q": [
+    {
+     "q": "Molisch's reaction is classified as?",
+     "o": [
+      "General reaction for all carbohydrates",
+      "Specific test for reducing sugars",
+      "Test for proteins",
+      "Test for lipids"
+     ],
+     "a": 0
+    },
+    {
+     "q": "In Molisch's test, how is conc. sulfuric acid added?",
+     "o": [
+      "Shake vigorously after adding",
+      "Add carefully on the wall of the tube",
+      "Boil for 2 min",
+      "Mix with Fehling A"
+     ],
+     "a": 1
+    },
+    {
+     "q": "A positive Molisch's test is observed as?",
+     "o": [
+      "Red precipitate",
+      "Violet ring",
+      "Black cupric oxide",
+      "Blue solution"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What happens to the violet ring by shaking?",
+     "o": [
+      "It disappears",
+      "It spreads",
+      "It turns red",
+      "It becomes black"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Molisch's test uses which sugar dehydration product for glucose?",
+     "o": [
+      "Furfural",
+      "HMF",
+      "Cu2O",
+      "Rochelle salt"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "en": "B. Reactions for reducing sugars:\n1. Fehling’s Test.\n2. Benedict’s Test.\n3. Barfoed’s Test.\n4. Moore’s Test (Action of alkali).\n5. Osazone test (Phenylhydrazine test).",
+   "ar": "B. اختبارات السكريات المختزلة (reducing sugars):\n1. Fehling’s Test.\n2. Benedict’s Test.\n3. Barfoed’s Test.\n4. Moore’s Test (Action of alkali).\n5. Osazone test (Phenylhydrazine test).",
+   "ex": "تخيلهم 5 بوابات للكشف عن السكر المختزل (reducing sugar): Fehling وBenedict وBarfoed وMoore وOsazone.",
+   "q": [
+    {
+     "q": "Which of the following is NOT listed as a reaction for reducing sugars?",
+     "o": [
+      "Fehling's Test",
+      "Benedict's Test",
+      "Barfoed's Test",
+      "Molisch's reaction"
+     ],
+     "a": 3
+    },
+    {
+     "q": "Moore's Test is also known as?",
+     "o": [
+      "Action of alkali",
+      "Phenylhydrazine test",
+      "Copper sulfate test",
+      "Rochelle salt test"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Osazone test is also called?",
+     "o": [
+      "Action of alkali",
+      "Phenylhydrazine test",
+      "Fehling's test",
+      "Molisch's test"
+     ],
+     "a": 1
+    },
+    {
+     "q": "How many reactions for reducing sugars are listed?",
+     "o": [
+      "3",
+      "4",
+      "5",
+      "6"
+     ],
+     "a": 2
+    },
+    {
+     "q": "The list B includes Fehling’s, Benedict’s, Barfoed’s, Moore’s, and?",
+     "o": [
+      "Osazone test",
+      "Molisch's reaction",
+      "Ninhydrin test",
+      "Biuret test"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 12,
+   "en": "B. Reactions for reducing sugars\n1. Fehling’s test:\nProcedure:\n- Mix 1 ml of Fehling A and 1 ml of Fehling B in a clean test tube; shake.\n- Add 2 ml of sugar solution to Fehling mixture and boil for 2 min.\nObservation:\nRed precipitate of cuprous oxide Cu2O.\n- Fehling A is a copper sulfate solution.\n- Fehling B contains sodium hydroxide and Rochelle salt (sodium potassium tartrate).\nRochelle salt role: is to keep Cu2+ ion in solution to prevent the formation of the cupric hydroxide and black cupric oxide CuO.\n- Fehling A and Fehling B kept separately to prevent auto-reduction.\nComment:\nReduction of Cu2+ to Cu2O due to presence of free carbonyl group. It is reducing sugar.",
+   "ar": "B. اختبارات السكريات المختزلة (reducing sugars)\n1. Fehling’s test:\nالخطوات (Procedure):\n- اخلط 1 ml من Fehling A مع 1 ml من Fehling B في أنبوبة نظيفة وارجّ.\n- ضيف 2 ml من محلول السكر لخليط Fehling واغلي لمدة 2 دقائق.\nالملاحظة (Observation):\nراسب أحمر (red precipitate) من cuprous oxide Cu2O.\n- Fehling A هو محلول copper sulfate.\n- Fehling B يحتوي على sodium hydroxide و Rochelle salt (sodium potassium tartrate).\nدور Rochelle salt: إنه يحافظ على Cu2+ في المحلول ويمنع تكوين cupric hydroxide و black cupric oxide CuO.\n- Fehling A و Fehling B بيتحفظوا منفصلين لمنع auto-reduction.\nالتعليق (Comment):\nاختزال Cu2+ إلى Cu2O بيحصل بسبب وجود free carbonyl group؛ وده معناه إن السكر reducing sugar.",
+   "ex": "Fehling A و Fehling B زي فريقين لازم يتخلطوا قبل الاستخدام. Rochelle salt شغال زي حارس بيمسك Cu2+ في المحلول وما يسبهوش يكوّن CuO أسود. لما السكر مختزل، يحول Cu2+ إلى Cu2O أحمر.",
+   "q": [
+    {
+     "q": "Fehling A is a solution of?",
+     "o": [
+      "Copper sulfate",
+      "Sodium hydroxide",
+      "Rochelle salt",
+      "α-naphthol"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Fehling B contains sodium hydroxide and?",
+     "o": [
+      "Copper sulfate",
+      "Rochelle salt (sodium potassium tartrate)",
+      "α-naphthol",
+      "Conc. sulfuric acid"
+     ],
+     "a": 1
+    },
+    {
+     "q": "The role of Rochelle salt in Fehling's test is to?",
+     "o": [
+      "Dehydrate sugar to HMF",
+      "Keep Cu2+ in solution and prevent cupric hydroxide/black CuO",
+      "Produce violet ring",
+      "Prevent auto-reduction of Fehling A"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Fehling A and Fehling B are kept separately to prevent?",
+     "o": [
+      "Auto-reduction",
+      "Violet ring formation",
+      "Cu2O formation",
+      "Sugar dehydration"
+     ],
+     "a": 0
+    },
+    {
+     "q": "A positive Fehling's test gives a red precipitate of?",
+     "o": [
+      "CuO",
+      "Cu2O",
+      "CuSO4",
+      "Cu(OH)2"
+     ],
+     "a": 1
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "en": "No textual content on this page in the provided text (blank/image-only page).",
+   "ar": "الصفحة دي مفيش فيها نص مكتوب في اللي اتقدم (فاضية/صورة فقط).",
+   "ex": "صفحة فاصلة؛ استعملها للمراجعة السريعة لاختبارات السكر المختزل (reducing sugars).",
+   "q": [
+    {
+     "q": "Which of the following is a test for reducing sugars?",
+     "o": [
+      "Molisch's reaction",
+      "Benedict's Test",
+      "Ninhydrin test",
+      "Biuret test"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Which test is also called Phenylhydrazine test?",
+     "o": [
+      "Fehling's test",
+      "Benedict's test",
+      "Osazone test",
+      "Moore's test"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Which test is also called Action of alkali?",
+     "o": [
+      "Moore's Test",
+      "Barfoed's Test",
+      "Fehling's Test",
+      "Molisch's reaction"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Fehling's test gives red precipitate of?",
+     "o": [
+      "CuO",
+      "Cu2O",
+      "CuSO4",
+      "Cu(OH)2"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Which reagent in Fehling's test keeps Cu2+ in solution?",
+     "o": [
+      "Rochelle salt",
+      "α-naphthol",
+      "Conc. sulfuric acid",
+      "Benedict's reagent"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "en": "No textual content on this page in the provided text (blank/image-only page).",
+   "ar": "الصفحة دي مفيش فيها نص مكتوب في اللي اتقدم (فاضية/صورة فقط).",
+   "ex": "صفحة فاضية كمان؛ راجع Fehling A/B واختبار Molisch.",
+   "q": [
+    {
+     "q": "Fehling A is a?",
+     "o": [
+      "Copper sulfate solution",
+      "Sodium hydroxide solution",
+      "Rochelle salt solution",
+      "Alcoholic α-naphthol solution"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Fehling B contains?",
+     "o": [
+      "Copper sulfate only",
+      "Sodium hydroxide and Rochelle salt",
+      "Conc. sulfuric acid",
+      "α-naphthol"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Rochelle salt prevents the formation of?",
+     "o": [
+      "Violet ring",
+      "Cupric hydroxide and black cupric oxide CuO",
+      "Cu2O red precipitate",
+      "HMF"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Fehling A and B are kept separately to prevent?",
+     "o": [
+      "Auto-reduction",
+      "Condensation with α-naphthol",
+      "Dehydration of sugar",
+      "Formation of Cu2O"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Molisch's violet ring is due to condensation of HMF with?",
+     "o": [
+      "2 molecules of alpha naphthol",
+      "Cu2+ ions",
+      "Rochelle salt",
+      "Fehling A"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "en": "No text content on this page (image/diagram only).",
+   "ar": "لا يوجد نص في هذه الصفحة، الصفحة تحتوي على صورة/رسم فقط.",
+   "ex": "الصفحة فاضية من النص، يمكن تكون صورة توضيحية.",
+   "q": [
+    {
+     "q": "What is the name of the test that uses phenylhydrazine?",
+     "o": [
+      "Osazone test",
+      "Ketose test",
+      "Molisch test",
+      "Benedict's test"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What color are the osazone crystals?",
+     "o": [
+      "Yellow",
+      "Red",
+      "Blue",
+      "Green"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What shape are the osazone crystals?",
+     "o": [
+      "Brush-shaped (Raphides)",
+      "Needle-shaped",
+      "Cube-shaped",
+      "Star-shaped"
+     ],
+     "a": 0
+    },
+    {
+     "q": "How many molecules of phenylhydrazine HCl react with one molecule of sugar?",
+     "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "a": 2
+    },
+    {
+     "q": "What are the three successive steps in osazone formation?",
+     "o": [
+      "Condensation, oxidation, condensation",
+      "Oxidation, condensation, oxidation",
+      "Condensation, condensation, oxidation",
+      "Oxidation, oxidation, condensation"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "en": "5. Osazone test (Phenylhydrazine test):\nProcedure:\n1) Add 10 drops of acetic acid to 2 ml of sugar solution in a test tube.\n2) Add about 1 g of a freshly-prepared mixture of phenylhydrazine hydrochloride and sodium acetate.\n3) Mix well and heat in a boiling water-bath for about 5-10 minutes.\n4) Cool tubes.\n5) Remove with a clean pipette a few crystals.\n6) Examine the osazone crystals under the microscope and make a drawing.\nObservation:\nYellow crystals called brush-shaped (Raphides) of Glucosazone & Fructosazone.\nComment:\nDue to the reaction of free aldehydic or ketone group of one molecule sugar with 3 molecules of phenyl hydrazine HCl in three successive steps: condensation, oxidation then condensation.",
+   "ar": "5. اختبار الأوزازون (اختبار فينيل هيدرازين):\nالطريقة:\n1) أضف 10 قطرات من حمض الخليك إلى 2 مل من محلول السكر في أنبوب اختبار.\n2) أضف حوالي 1 جم من خليط محضر حديثًا من هيدروكلوريد فينيل هيدرازين وخلات الصوديوم.\n3) اخلط جيدًا وسخن في حمام مائي مغلي لمدة 5-10 دقائق.\n4) برد الأنابيب.\n5) أزل بقطارة نظيفة بعض البلورات.\n6) افحص بلورات الأوزازون تحت المجهر وارسمها.\nالملاحظة:\nبلورات صفراء تسمى brush-shaped (Raphides) من الجلوكوزازون والفركتوزازون.\nالتعليق:\nبسبب تفاعل مجموعة الألدهيد أو الكيتون الحرة في جزيء السكر مع 3 جزيئات من فينيل هيدرازين HCl في ثلاث خطوات متتالية: تكاثف، أكسدة ثم تكاثف.",
+   "ex": "تخيل إنك بتعمل حلويات، بتضيف مكونات وتغليها، وبعدين تطلع بلورات صفراء زي الفرشاة. ده اختبار الأوزازون.",
+   "q": [
+    {
+     "q": "What is added first to the sugar solution in the osazone test?",
+     "o": [
+      "Acetic acid",
+      "Phenylhydrazine HCl",
+      "Sodium acetate",
+      "Water"
+     ],
+     "a": 0
+    },
+    {
+     "q": "How long is the mixture heated in a boiling water-bath?",
+     "o": [
+      "1-2 minutes",
+      "5-10 minutes",
+      "15-20 minutes",
+      "30 minutes"
+     ],
+     "a": 1
+    },
+    {
+     "q": "What is the observation of the osazone test?",
+     "o": [
+      "Yellow brush-shaped crystals",
+      "Reddish brown color",
+      "Colorless solution",
+      "Blue precipitate"
+     ],
+     "a": 0
+    },
+    {
+     "q": "How many molecules of phenylhydrazine HCl react with one molecule of sugar?",
+     "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "a": 2
+    },
+    {
+     "q": "What are the three successive steps in osazone formation?",
+     "o": [
+      "Condensation, oxidation, condensation",
+      "Oxidation, condensation, oxidation",
+      "Condensation, condensation, oxidation",
+      "Oxidation, oxidation, condensation"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "en": "Osazone test (Phenylhydrazine test)",
+   "ar": "اختبار الأوزازون (اختبار فينيل هيدرازين)",
+   "ex": "زي اختبار نضيف فيه فينيل هيدرازين ونشوف الكريستالات.",
+   "q": [
+    {
+     "q": "What is another name for the osazone test?",
+     "o": [
+      "Phenylhydrazine test",
+      "Ketose test",
+      "Molisch test",
+      "Benedict's test"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What type of crystals are formed in the osazone test?",
+     "o": [
+      "Brush-shaped (Raphides)",
+      "Needle-shaped",
+      "Cube-shaped",
+      "Star-shaped"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is the color of the osazone crystals?",
+     "o": [
+      "Yellow",
+      "Red",
+      "Blue",
+      "Green"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which sugars give the same osazone crystals?",
+     "o": [
+      "Glucose and fructose",
+      "Glucose and galactose",
+      "Fructose and sucrose",
+      "Maltose and lactose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is the reagent used in the osazone test?",
+     "o": [
+      "Phenylhydrazine hydrochloride",
+      "Benedict's reagent",
+      "Fehling's solution",
+      "Iodine"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "en": "C. Reaction for differentiation between glucose and fructose",
+   "ar": "ج. تفاعل للتمييز بين الجلوكوز والفركتوز",
+   "ex": "يعني اختبار يفرق بين السكرين.",
+   "q": [
+    {
+     "q": "Which test differentiates between glucose and fructose?",
+     "o": [
+      "Ketose test",
+      "Osazone test",
+      "Molisch test",
+      "Benedict's test"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is added to the sugar solution in the ketose test?",
+     "o": [
+      "Conc HCl",
+      "Phenylhydrazine",
+      "Acetic acid",
+      "Sodium acetate"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is the observation for fructose in the ketose test?",
+     "o": [
+      "Reddish brown",
+      "Colorless",
+      "Yellow",
+      "Blue"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is the observation for glucose in the ketose test?",
+     "o": [
+      "Colorless",
+      "Reddish brown",
+      "Yellow",
+      "Blue"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is formed from fructose in acidic medium?",
+     "o": [
+      "Furfural",
+      "Hydroxymethyl furfural",
+      "Glucosazone",
+      "Fructosazone"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "en": "Ketose test :\nProcedure :\n1) Add 2 ml of sugar solution to 1 ml of conc HCl solution.\n2) Boil for 2 min.\nObservation:\nGlucose: Colorless.\nFructose: Reddish brown.\nComment:\nIn case of fructose:\n Dehydration of fructose and formation of furfural which is reddish brown in color in acidic medium.\nIn case of glucose:\n Dehydration to hydroxymethyl furfural (HMF) which is colorless in acidic medium.",
+   "ar": "اختبار الكيتوز:\nالطريقة:\n1) أضف 2 مل من محلول السكر إلى 1 مل من حمض الهيدروكلوريك المركز.\n2) اغلي لمدة دقيقتين.\nالملاحظة:\nالجلوكوز: عديم اللون.\nالفركتوز: بني محمر.\nالتعليق:\nفي حالة الفركتوز:\n تجفيف الفركتوز وتكوين الفورفورال الذي يكون لونه بني محمر في الوسط الحمضي.\nفي حالة الجلوكوز:\n تجفيف إلى هيدروكسي ميثيل فورفورال (HMF) الذي يكون عديم اللون في الوسط الحمضي.",
+   "ex": "تخيل إنك بتسخن سكر مع حمض، الفركتوز بيدي لون بني محمر زي الكراميل، أما الجلوكوز يفضل شفاف.",
+   "q": [
+    {
+     "q": "What is the procedure for the ketose test?",
+     "o": [
+      "Add 2 ml sugar solution to 1 ml conc HCl and boil 2 min",
+      "Add 10 drops acetic acid and heat",
+      "Add phenylhydrazine and heat",
+      "Add Benedict's reagent and heat"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is the observation for glucose in the ketose test?",
+     "o": [
+      "Colorless",
+      "Reddish brown",
+      "Yellow",
+      "Blue"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is the observation for fructose in the ketose test?",
+     "o": [
+      "Reddish brown",
+      "Colorless",
+      "Yellow",
+      "Blue"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is formed from fructose in acidic medium?",
+     "o": [
+      "Furfural",
+      "Hydroxymethyl furfural",
+      "Glucosazone",
+      "Fructosazone"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is formed from glucose in acidic medium?",
+     "o": [
+      "Hydroxymethyl furfural (HMF)",
+      "Furfural",
+      "Glucosazone",
+      "Fructosazone"
+     ],
+     "a": 0
+    }
+   ]
+  },
+  {
+   "page": 20,
+   "en": "No text content on this page (image/diagram only).",
+   "ar": "لا يوجد نص في هذه الصفحة، الصفحة تحتوي على صورة/رسم فقط.",
+   "ex": "الصفحة فاضية من النص.",
+   "q": [
+    {
+     "q": "Which sugar gives a reddish brown color in the ketose test?",
+     "o": [
+      "Fructose",
+      "Glucose",
+      "Sucrose",
+      "Maltose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "Which sugar gives a colorless result in the ketose test?",
+     "o": [
+      "Glucose",
+      "Fructose",
+      "Sucrose",
+      "Maltose"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What acid is used in the ketose test?",
+     "o": [
+      "Conc HCl",
+      "Acetic acid",
+      "Sulfuric acid",
+      "Nitric acid"
+     ],
+     "a": 0
+    },
+    {
+     "q": "How long is the solution boiled in the ketose test?",
+     "o": [
+      "2 minutes",
+      "5 minutes",
+      "10 minutes",
+      "1 minute"
+     ],
+     "a": 0
+    },
+    {
+     "q": "What is the product of fructose dehydration in acidic medium?",
+     "o": [
+      "Furfural",
+      "Hydroxymethyl furfural",
+      "Glucosazone",
+      "Fructosazone"
+     ],
+     "a": 0
+    }
+   ]
+  }
+ ],
+ "high_risk": [
+  {
+   "t": "Molisch's test (General test for carbohydrates)",
+   "idea": "All carbohydrates give a violet ring at the junction of the two layers due to dehydration of sugar to furfural or hydroxymethyl furfural, then condensation with α-naphthol.",
+   "why": "Classic first general identification test for carbohydrates; professors often ask procedure, observation, and chemical basis.",
+   "page": "9-10",
+   "alt": "اذكر اختبار Molisch العام للكربوهيدرات؟ / ما أساس تفاعل Molisch؟ / لماذا تظهر حلقة بنفسجية؟ / ما دور α-naphthol وحمض الكبريتيك؟"
+  },
+  {
+   "t": "Fehling’s test for reducing sugars",
+   "idea": "Reducing sugars reduce copper sulfate in alkaline medium to red cuprous oxide (Cu2O). Fehling A = copper sulfate; Fehling B = sodium hydroxide + Rochelle salt (sodium potassium tartrate).",
+   "why": "Very common practical exam question: composition of Fehling A and B, role of Rochelle salt, procedure, and red precipitate.",
+   "page": "12",
+   "alt": "ما هو اختبار Fehling؟ / لماذا يعطي الجلوكوز راسب أحمر؟ / ما مكونات محلول Fehling A و B؟ / ما وظيفة Rochelle salt؟"
+  },
+  {
+   "t": "Benedict’s test for reducing sugars",
+   "idea": "Reducing sugars give a brick-red precipitate of Cu2O with Benedict’s reagent, which contains alkaline copper citrate/carbonate. It is more sensitive than Fehling and suitable for quantitative estimation.",
+   "why": "Mentioned in the reducing sugar test list; Egyptian exams usually ask comparison between Fehling and Benedict.",
+   "page": "11",
+   "alt": "اذكر اختبار Benedict للكربوهيدرات المختزلة؟ / قارن بين Fehling و Benedict؟ / ما لون الراسب؟ / لماذا يستخدم Benedict في البول؟"
+  },
+  {
+   "t": "Barfoed’s test",
+   "idea": "Differentiates monosaccharides from disaccharides. Monosaccharides reduce copper acetate in acidic medium giving red Cu2O within minutes; disaccharides react slowly or after prolonged boiling.",
+   "why": "Listed among reducing sugar tests and commonly used in practical differentiation.",
+   "page": "11",
+   "alt": "ما اختبار Barfoed؟ / كيف تفرق بين الجلوكوز والمالتوز؟ / لماذا الوسط حمضي؟ / متى يظهر الراسب الأحمر؟"
+  },
+  {
+   "t": "Osazone test (Phenylhydrazine test)",
+   "idea": "Reducing sugars react with phenylhydrazine hydrochloride and sodium acetate to form osazone crystals. Crystal shape and time of formation help identify sugars (e.g., glucose/fructose broom-shaped, maltose sunburst, lactose rosette).",
+   "why": "High-yield practical test: procedure, reagent, boiling water-bath, microscopic crystal shape, and differentiation between sugars.",
+   "page": "16-17",
+   "alt": "اذكر اختبار Osazone؟ / كيف تحضر بلورات الأوزازون؟ / ما شكل بلورات الجلوكوز واللاكتوز؟ / لماذا نستخدم phenylhydrazine؟"
+  },
+  {
+   "t": "Ketose test: differentiation between glucose and fructose",
+   "idea": "Boiling with conc. HCl: fructose dehydrates to furfural (reddish brown), while glucose dehydrates to hydroxymethyl furfural (colorless in acidic medium).",
+   "why": "Direct differentiation question; professors ask observation, comment, and chemical basis.",
+   "page": "18-19",
+   "alt": "كيف تفرق بين الجلوكوز والفركتوز؟ / ما نتيجة اختبار Ketose؟ / لماذا يعطي الفركتوز لون بني محمر؟ / ما الفرق بين furfural و HMF؟"
+  },
+  {
+   "t": "Classification of carbohydrates",
+   "idea": "By hydrolysis products: monosaccharides (1 unit), disaccharides (2 units), oligosaccharides (3–10 units), polysaccharides (>10 units). By most oxidized group: aldoses (aldehyde) and ketoses (ketone).",
+   "why": "Basic definition/classification question always expected in written exams.",
+   "page": "4",
+   "alt": "صنف الكربوهيدرات حسب التحلل المائي؟ / ما الفرق بين Aldoses و Ketoses؟ / عرف Oligosaccharides؟ / أعط أمثلة."
+  },
+  {
+   "t": "Definition and functions of carbohydrates",
+   "idea": "Carbohydrates are organic substances containing C, H, O; polyhydroxyaldehydes or polyhydroxyketones, or compounds giving these on hydrolysis. Functions: energy source, energy storage, cell membrane components, intercellular communication.",
+   "why": "Foundation question; easy marks and commonly asked in short notes.",
+   "page": "3",
+   "alt": "عرف الكربوهيدرات؟ / اذكر وظائف الكربوهيدرات؟ / ما المقصود بـ polyhydroxyaldehyde؟ / لماذا تعتبر مصدر طاقة؟"
+  },
+  {
+   "t": "Reducing sugars: list and general principle",
+   "idea": "Reducing sugars include glucose, fructose, maltose, lactose; they reduce copper ions in alkaline medium. Tests: Fehling, Benedict, Barfoed, Moore (alkali), Osazone. Sucrose is non-reducing.",
+   "why": "Common theoretical link between practical tests and chemical structure; often asked as list or MCQ.",
+   "page": "11",
+   "alt": "اذكر اختبارات السكريات المختزلة؟ / ما تعريف السكر المختزل؟ / لماذا السكروز غير مختزل؟ / ما الفرق بين Moore و Fehling؟"
+  }
+ ],
+ "must_know": [
+  "Definition of carbohydrates as polyhydroxyaldehydes or polyhydroxyketones or compounds yielding them on hydrolysis.",
+  "Classification by hydrolysis: mono-, di-, oligo-, polysaccharides; by oxidized group: aldoses and ketoses.",
+  "Molisch's test: procedure, violet ring, dehydration to furfural/HMF, condensation with α-naphthol.",
+  "Fehling's test: red Cu2O, Fehling A = CuSO4, Fehling B = NaOH + Rochelle salt, role of tartrate.",
+  "Benedict's test: brick-red Cu2O, alkaline copper citrate/carbonate, used for reducing sugars.",
+  "Barfoed's test: acidic copper acetate, differentiates monosaccharides from disaccharides by speed.",
+  "Osazone test: phenylhydrazine hydrochloride + sodium acetate, boiling water-bath, crystal shape/time identification.",
+  "Ketose test: conc. HCl boil; fructose reddish brown via furfural, glucose colorless via HMF.",
+  "Reducing sugars: glucose, fructose, maltose, lactose; sucrose is non-reducing.",
+  "Functions of carbohydrates: energy, energy storage, cell membrane components, intercellular communication.",
+  "Practical precautions: add H2SO4 carefully on tube wall and do not shake in Molisch; use freshly prepared phenylhydrazine mixture; cool before microscopic examination of osazone."
+ ],
+ "dont_confuse": [
+  "Molisch's test is positive for all carbohydrates, while Fehling/Benedict are positive only for reducing sugars.",
+  "Aldoses contain an aldehyde group; ketoses contain a ketone group. Do not confuse with mono-, di-, and polysaccharides.",
+  "Glucose gives colorless in ketose test; fructose gives reddish brown. The result is not reversed.",
+  "Furfural comes from pentoses/fructose; hydroxymethyl furfural (HMF) comes from hexoses/glucose.",
+  "Fehling A is copper sulfate; Fehling B is NaOH + Rochelle salt. Do not reverse their roles.",
+  "Rochelle salt is sodium potassium tartrate; it chelates Cu2+ and prevents precipitation of Cu(OH)2, but the red precipitate is Cu2O.",
+  "Osazone test uses phenylhydrazine; all reducing sugars can form osazones, but crystal shape and time differ.",
+  "Barfoed's test is not simply positive/negative; monosaccharides react faster, while disaccharides may need prolonged boiling.",
+  "Benedict's reagent uses alkaline copper citrate/carbonate; Fehling uses alkaline copper tartrate.",
+  "Sucrose is non-reducing because it has no free anomeric hydroxyl group, but it gives Molisch after hydrolysis."
+ ],
+ "one_min": "تلخّص المحاضرة تعريف الكربوهيدرات بأنها مركبات عضوية من C و H و O، وهي polyhydroxyaldehyde أو polyhydroxyketone أو مواد تعطيها عند التحلل المائي، ووظائفها تشمل إمداد الجسم بالطاقة وخزنها وتركيب أغشية الخلايا والاتصال بين الخلايا. وتُصنّف حسب نواتج التحلل المائي إلى monosaccharides و disaccharides و oligosaccharides و polysaccharides، وحسب المجموعة المؤكسدة إلى aldoses و ketoses. وتشمل التفاعلات العامة اختبار Molisch الذي يعطي حلقة بنفسجية لكل الكربوهيدرات بسبب تكوين furfural أو HMF وتكاثفه مع α-naphthol، واختبارات السكريات المختزلة مثل Fehling الذي يعطي راسب أحمر Cu2O، وBenedict، وBarfoed، وMoore، وOsazone لتكوين بلورات مميزة. كما يوجد اختبار Ketose للتمييز بين الجلوكوز والفركتوز، حيث يعطي الفركتوز لوناً بنياً محمراً مع HCl المركز بينما يظل الجلوكوز عديم اللون. أهم نقاط الامتحان هي معرفة الأساس الكيميائي، المكونات، الخطوات، والملاحظة اللونية لكل اختبار."
+}
